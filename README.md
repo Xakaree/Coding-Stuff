@@ -1,2 +1,2 @@
-# Coding-Stuff
-Homework and what not
+# Coding for School
+Compilation of homework assignments
